@@ -5,7 +5,7 @@ Draw a shape on a map to query features inside it.
 
 ![demo](http://i.imgur.com/RGbMcRH.gif)
 
-__Demo:__ https://www.mapbox.com/analysis-demos/philly-properties/
+__Demo:__ http://sabman.github.io/property-analysis
 
 ### What is this showing?
 For effective Business Intelligence applications we need to not only show effecitve visualization but also handle huge datasets. This project demonstrates fast visualization of more than half a million properties. Allowing users to query an area by custom radius and filter by the use-status of the properties.
