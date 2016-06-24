@@ -8,7 +8,7 @@ Draw a shape on a map to query features inside it.
 __Demo:__ http://sabman.github.io/property-analysis
 
 ### What is this showing?
-For effective Business Intelligence applications not only do we need to show effective visualization but also handle huge datasets. This project demonstrates fast visualization of more than half a million properties. Allowing users to query an area by custom radius and filter by the use-status of the properties.
+For effective Business Intelligence applications not only do we need to show effective visualization but also handle huge datasets. This project demonstrates fast visualization of more than *half a million properties*. Allowing users to query an area by custom radius and filter by the use-status of the properties.
 
 For the residential properties we have the price and number of bedrooms, rooms, floors and bathrooms.
 
