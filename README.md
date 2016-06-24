@@ -7,21 +7,12 @@ Draw a shape on a map to query features inside it.
 
 __Demo:__ https://www.mapbox.com/analysis-demos/philly-properties/
 
-### Installing
+### What is this showing?
+For effective Business Intelligence applications we need to not only show effecitve visualization but also handle huge datasets. This project demonstrates fast visualization of more than half a million properties. Allowing users to query an area by custom radius and filter by the use-status of the properties.
 
-    npm install
+For the residential properties we have the price and number of bedrooms, rooms, floors and bathrooms.
 
-### Running locally
-
-    MapboxAccessToken=<YOUR TOKEN> npm start
-
-Open your browser to http://localhost:9966
-
-### Building
-
-    MapboxAccessToken=<YOUR TOKEN> npm run build
-
-Compiles a minified `bundle.js` for production
+Geografia plans to enrich such tools with data from socio-economic modelling. This can be a powerful decision support tool for estate agents wanting to have more fine grain control over assessing a properties in a perticular block, street or even down to individual buildings.
 
 ### Data source
 
