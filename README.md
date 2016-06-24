@@ -12,4 +12,4 @@ For effective Business Intelligence applications we need to not only show effect
 
 For the residential properties we have the price and number of bedrooms, rooms, floors and bathrooms.
 
-Geografia plans to enrich such tools with data from socio-economic modeling. This can be a powerful decision support tool for estate agents wanting to have more fine grain control over assessing a properties in a particular block, street or even down to individual buildings.
+Geografia plans to enrich such tools with data from socio-economic modeling. This can be a powerful decision support tool for property analysts and developers wanting to have more fine grain control over assessing a properties in a particular block, street or even down to individual buildings.
